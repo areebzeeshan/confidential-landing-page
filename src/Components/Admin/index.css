@@ -1,0 +1,4 @@
+/* YourStyles.css or within a style block */
+.hover\:shadow-yellow:hover {
+    box-shadow: 0 4px 6px -1px #FFB72A, 0 2px 4px -1px rgba(252, 211, 77, 0.06);
+}
